@@ -3,4 +3,4 @@
 2. HW2
 3. HW3
 4. HW4
-5. [Final Project: VQ2D]([https://github.com/DLCV-Fall-2023/DLCV-Fall-2023-Final-2-boss-sdog](https://github.com/LeoHsuProgrammingLab/VQLoC))
+5. [Final Project: VQ2D](https://github.com/DLCV-Fall-2023/DLCV-Fall-2023-Final-2-boss-sdog](https://github.com/LeoHsuProgrammingLab/VQLoC)
